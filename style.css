@@ -1,0 +1,21 @@
+.menu{
+    background-color: orange;
+    display: flex;
+}
+.botoes{
+    padding: 0px 400px;
+}
+.imagem-tv, .imagem-ps5 {
+    max-width: 200px;
+}
+.imagem-pc {
+    max-width: 150px;
+}
+.produto {
+    padding: 20px 40px;
+    background-color: grey;
+    margin: 20px 0px;
+}
+.preco{
+    color: blue;
+}
